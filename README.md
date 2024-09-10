@@ -1,5 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
 
+## Name: KRISHNA KUMAR R
+## Register Number: 212223230107
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
